@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Mathematical Sciences, Universidad Nacional Autónoma de México, 2015
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Mathematical Sciences, Universidad Nacional Autónoma de México, 2011
+* B.S. in Mathematics, Universidad Nacional Autónoma de México, 2009
 
 Work experience
 ======
