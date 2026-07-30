@@ -24,18 +24,16 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "I am an associate professor at the Faculty of Sciences of the Universidad Nacional Autónoma de México. My PhD advisors were Fernando Galaz-García and Oscar Palmas-Velasco"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Facultad de Ciencias UNAM"
   uri              : # URL
   email            : "nunez-zimbron@ciencias.unam.mx" 
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : "https://www.researchgate.net/profile/Jesus-Nunez-Zimbron"
+  googlescholar    : "https://scholar.google.com/citations?user=LMzykOkAAAAJ&hl=es&oi=ao"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-9878-7566"
